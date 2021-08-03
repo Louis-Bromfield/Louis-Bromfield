@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Louis-Bromfield
+- 👋 Hi, I’m Louis Bromfield
 - 👀 I’m interested in Full Stack Web Development and Data Analysis.
-- 🌱 I have experience working in Java, JavaFX, MySQL, JavaScript (self-taught), React (self-taught) and R (currently learning). 
+- 🌱 I have experience working in Java, JavaFX, MySQL, JavaScript (self-taught), React (self-taught) and R (currently learning). I have a Politics BA and a Computer Science (conversion) MSc, both from Swansea University. I'm currently studying my PhD in Politics at Swansea as well.
 - 💞️ I’m looking to collaborate on nothing at the mo ;)
 - 📫 How to reach me: My email is 908747@swansea.ac.uk
 
